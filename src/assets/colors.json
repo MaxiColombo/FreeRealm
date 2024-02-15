@@ -1,0 +1,37 @@
+[
+  {
+    "title":"Picular",
+    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024706/qml6d8tuzaox7uvtxesc.png",
+    "url":"https://picular.co/"
+  },
+  {
+    "title":"Color Selector",
+    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024717/fvlltffunol5lumbzqfr.png",
+    "url":"https://www.color-selector.com/"
+  },
+  {
+    "title":"Coolors",
+    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024724/jmihqu8kx5aggtukrjl8.png",
+    "url":"https://coolors.co/"
+  },
+  {
+    "title":"Huesnap",
+    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024728/rgmytpwyfhos8qfy9u9h.png",
+    "url":"https://www.huesnap.com/"
+  },
+  {
+    "title":"Coloors.net",
+    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024733/vauiuhhndeiixdds2swg.png",
+    "url":"https://www.coloors.net/"
+  },
+  {
+    "title":"Tintmint",
+    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024736/mxlfz8jjiz0dzmhl9ogb.png",
+    "url":"https://tintmint.net/"
+  },
+  {
+    "title":"Colormind",
+    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024740/rvpcsvhpt7cvv2xeibva.png",
+    "url":"http://colormind.io/"
+  }
+]
