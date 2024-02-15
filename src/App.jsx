@@ -15,6 +15,7 @@ function App() {
         <div className="container">
           <div className="background">
             <div className="overlay"></div>
+            <img src="./static/categories-icons/palette.svg" alt="XXXXXXXXX" />
           </div>
         </div>
         <UseRoutes />
