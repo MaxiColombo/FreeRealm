@@ -4,66 +4,66 @@
 		"name": "Icons",
 		"color": "#2b6dff",
 		"nameID": "icons",
-		"svg":"../../src/static/categories-icons/icons.svg"
+		"svg": "/src/static/categories-icons/article.svg"
 	},
 	{
 		"name": "Ilustrations",
 		"color": "#20c928",
 		"nameID": "ilustrations",
-		"svg":"../../src/static/categories-icons/brush.svg"
+		"svg":"/src/static/categories-icons/brush.svg"
 	},
 	{
 		"name": "Photos",
 		"color": "#d41cf1",
 		"nameID": "photos",
-		"svg":"../../src/static/categories-icons/photo.svg"
+		"svg":"/src/static/categories-icons/photo.svg"
 	},
 	{
 		"name": "Videos",
 		"color": "#e11d48",
 		"nameID": "videos",
-		"svg":"../../src/static/categories-icons/video.svg"
+		"svg":"/src/static/categories-icons/video.svg"
 	},
 	{
 		"name": "Colors",
 		"color": "#fd1793",
 		"nameID": "colors",
-		"svg":"../../src/static/categories-icons/palette.svg"
+		"svg":"/src/static/categories-icons/palette.svg"
 	},
 	{
 		"name": "Backgrounds",
 		"color": "#4c3fed",
 		"nameID": "backgrounds",
-		"svg":"../../src/static/categories-icons/texture.svg"
+		"svg":"/src/static/categories-icons/texture.svg"
 	},
 	{
 		"name": "Fonts",
 		"color": "#ffaa1b",
 		"nameID": "fonts",
-		"svg":"../../src/static/categories-icons/typography.svg"
+		"svg":"/src/static/categories-icons/typography.svg"
 	},
 	{
 		"name": "3D",
 		"color": "#8338ec",
 		"nameID": "3d",
-		"svg":"../../src/static/categories-icons/hexagonal-pyramid.svg"
+		"svg":"/src/static/categories-icons/hexagonal-pyramid.svg"
 	},
 	{
 		"name": "Libraries",
 		"color": "#ff006e",
 		"nameID": "libraries",
-		"svg":"../../src/static/categories-icons/books.svg"
+		"svg":"/src/static/categories-icons/books.svg"
 	},
 	{
 		"name": "Blogs",
 		"color": "#00a1ff",
 		"nameID": "blogs",
-		"svg":"../../src/static/categories-icons/article.svg"
+		"svg":"/src/static/categories-icons/article.svg"
 	},
 	{
 		"name": "Tools",
 		"color": "#f97316",
 		"nameID": "tools",
-		"svg":"../../src/static/categories-icons/tools.svg"
+		"svg":"/src/static/categories-icons/tools.svg"
 	}
 ]

@@ -7,7 +7,7 @@ export function CardPage({ items }) {
     <div className="containerCard">
       {items.map((item, index) => (
         <div className="item" key={index}>
-           {loading && <div className="loading-icon">Cargando...</div>}
+          {loading && <div className="loading-icon">Cargando...</div>}
           <img
             src={item.image}
             alt={item.title}
