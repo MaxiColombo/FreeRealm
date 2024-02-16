@@ -6,7 +6,6 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
-    <img src="/src/static/categories-icons/article.svg" alt="IM2" />
   </React.StrictMode>,
 )
 
