@@ -6,5 +6,7 @@ import './index.css'
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <App />
+    <img src="/public/article.svg" alt="IM1" />
+    <img src="/article.svg" alt="IM2" />
   </React.StrictMode>,
 )
