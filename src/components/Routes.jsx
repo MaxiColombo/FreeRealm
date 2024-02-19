@@ -4,6 +4,7 @@ import { Route, Routes } from "react-router-dom";
 import { UploadFile } from "../UploadImg.jsx";
 import { DataPage } from "../pages/dataPages.jsx";
 
+
 import iconData from "../assets/icons.json";
 import photoData from "../assets/photos.json";
 import videoData from "../assets/videos.json";

@@ -14,7 +14,6 @@ function App() {
         <NavBar />
 
         <div className="line-container">
-
         </div>
         <UseRoutes />
       </div>
