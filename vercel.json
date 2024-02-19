@@ -1,7 +1,7 @@
 {
   "routes": [
-    { "src": "/api/icons", "dest": "api/icons.js" },
-    { "src": "/api/photos", "dest": "api/photos.js" },
+    { "src": "/api/icons", "dest": "/probando.js" },
+    { "src": "/api/photos", "dest": "api/icons.js" },
     { "src": "/api/videos", "dest": "api/videos.js" },
     { "src": "/api/ilustrations", "dest": "api/ilustrations.js" },
     { "src": "/api/colors", "dest": "api/colors.js" },

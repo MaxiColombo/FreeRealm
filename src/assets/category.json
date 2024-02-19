@@ -2,13 +2,13 @@
 [
 	{
 		"name": "Icons",
-		"color": "#2b6dff",
+		"color": "#20c928",
 		"nameID": "icons",
 		"svg": "/icons.svg"
 	},
 	{
 		"name": "Ilustrations",
-		"color": "#20c928",
+		"color": "#2b6dff",
 		"nameID": "ilustrations",
 		"svg":"/brush.svg"
 	},

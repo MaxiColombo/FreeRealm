@@ -1,19 +1,24 @@
 .containerCard {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(320px, 2fr));
-  gap: 20px; 
   justify-content: center;
 }
 
-.item {
-  width: 100%; /* Opcional: Ancho máximo del contenedor */
-  
-}
 .item{
-  border: 2px solid #2b6dff;
+  transition: transform 0.3s ease;
   border-radius: 10px;
-  
+  cursor: pointer;
+  width: 100%;
+  border: 2px solid transparent;
 }
+.item:hover{
+  border-color: var(--hover-color);
+  transform: scale(1.05);
+
+}
+
+
+
 
 .item img {
   width: 100%; 
