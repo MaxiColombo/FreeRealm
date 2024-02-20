@@ -26,13 +26,14 @@ export function CardPage({ items }) {
               style={{ display: loading ? 'none' : 'block' }}
               className='cardImage'
             />
-          </a>
-          <div className='cardContent'>
-            <div className='titleContainer'>
-              <h1 className='cardTitle'>{item.title}</h1>
-              <img src={shareIcon} alt="Share Image" className='shareIcono' />
+
+            <div className='cardContent'>
+              <div className='titleContainer'>
+                <h1 className='cardTitle'>{item.title}</h1>
+                <img src={shareIcon} alt="Share Image" className='shareIcono' />
+              </div>
             </div>
-          </div>
+          </a>
         </div>
       ))}
     </div>
