@@ -1,0 +1,51 @@
+[
+  {
+    "title": "DEV",
+    "category": "Community",
+    "url": "https://dev.to/",
+    "description": "DEV es una plataforma comunitaria donde los desarrolladores comparten y discuten ideas, artículos y recursos sobre programación, tecnología y desarrollo de software.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455830/mskwostnhfwtggbllvoi.png"
+  },
+  {
+    "title": "Medium",
+    "category": "Community",
+    "url": "https://medium.com/",
+    "description": "Medium es una plataforma de publicación en línea donde escritores, expertos y entusiastas comparten historias, ideas y conocimientos sobre una amplia variedad de temas, incluyendo tecnología, negocios, diseño y más.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455833/x0k1c5c8dpsatdp2f7mm.png"
+  },
+  {
+    "title": "Overreacted",
+    "category": "React",
+    "url": "https://overreacted.io/",
+    "description": "Overreacted es el blog personal de Dan Abramov, uno de los principales desarrolladores de React en Facebook. En este blog, Dan comparte reflexiones, técnicas y experiencias relacionadas con el desarrollo de aplicaciones con React.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455838/jwzi04yfxag2aayb8yfx.png"
+  },
+  {
+    "title": "CSS-Tricks",
+    "category": "CSS",
+    "url": "https://css-tricks.com/",
+    "description": "CSS-Tricks es un recurso en línea que ofrece tutoriales, artículos, ejemplos y trucos relacionados con CSS, HTML y diseño web en general. Es un recurso invaluable para desarrolladores web que desean mejorar sus habilidades en el desarrollo front-end.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455842/tntrikyh5rserl5pfpud.png"
+  },
+  {
+    "title": "Smashing Magazine",
+    "category": "Web",
+    "url": "https://www.smashingmagazine.com/",
+    "description": "Smashing Magazine es una revista en línea que ofrece artículos, tutoriales y recursos sobre diseño web, desarrollo front-end y UX/UI. Es una fuente de inspiración y conocimiento para diseñadores y desarrolladores web de todo el mundo.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455846/zi156rtvjs6qzbf1deqf.png"
+  },
+  {
+    "title": "A List Apart",
+    "category": "Community",
+    "url": "https://alistapart.com/",
+    "description": "A List Apart es una publicación en línea que explora el diseño, desarrollo y contenido web. Desde 1997, ha sido una fuente confiable de artículos y recursos valiosos para profesionales web que buscan mejorar sus habilidades y conocimientos.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455851/zhhxzffsvojf9g23pirq.png"
+  },
+  {
+    "title": "Sitepoint",
+    "category": "Learning",
+    "url": "https://www.sitepoint.com/",
+    "description": "Sitepoint es una plataforma educativa en línea que ofrece libros, cursos y artículos sobre desarrollo web, diseño, programación y más. Es un recurso útil tanto para principiantes como para profesionales que desean aprender nuevas habilidades o mejorar las existentes.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455862/j6yhkmtym44yu0vpe87f.png"
+  }
+]

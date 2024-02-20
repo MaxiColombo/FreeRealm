@@ -1,32 +1,38 @@
 [
   {
-  "title":"Visiwig",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708025328/gdrpzczapmkcgmctefww.png",
-  "url":"https://www.visiwig.com/patterns/"
- },
- {
-  "title":"Project Verou",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708025333/dyjq7ruzuzhxp5wg77du.png",
-  "url":"https://projects.verou.me/css3patterns/"
- },
- {
-  "title":"Css Pattern",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708025338/y1lro0yzxuugh7bsybdp.png",
-  "url":"https://css-pattern.com/"
- },
- {
-  "title":"SuperDesigner",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708025342/ysouw5yo24hhqo1fbrnf.png",
-  "url":"https://superdesigner.co/"
- },
- {
-  "title":"MagicPattern",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708025345/hltivzp9eweromprqqzs.png",
-  "url":"https://www.magicpattern.design/tools/css-backgrounds"
- },
- {
-  "title":"Ibelick",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708025353/hm6uejkfymp8fcgrlfwu.png",
-  "url":"https://bg.ibelick.com/"
- }
+    "title": "Visiwig",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708025328/gdrpzczapmkcgmctefww.png",
+    "url": "https://www.visiwig.com/patterns/",
+    "description": "Visiwig es una plataforma que ofrece una colección de patrones gratuitos para uso en diseño web y proyectos creativos. Explora una variedad de patrones disponibles y descarga los que mejor se adapten a tus necesidades."
+  },
+  {
+    "title": "Project Verou",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708025333/dyjq7ruzuzhxp5wg77du.png",
+    "url": "https://projects.verou.me/css3patterns/",
+    "description": "Project Verou es un proyecto de la diseñadora y desarrolladora web Lea Verou, donde comparte una colección de patrones CSS3 gratuitos. Explora una variedad de patrones CSS3 creativos y únicos para utilizar en tus proyectos web."
+  },
+  {
+    "title": "Css Pattern",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708025338/y1lro0yzxuugh7bsybdp.png",
+    "url": "https://css-pattern.com/",
+    "description": "CSS Pattern es una plataforma que ofrece una biblioteca de patrones CSS gratuitos para mejorar el diseño de tus proyectos web. Explora una variedad de estilos y diseños de patrones CSS para aplicar en tus sitios web y aplicaciones."
+  },
+  {
+    "title": "SuperDesigner",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708025342/ysouw5yo24hhqo1fbrnf.png",
+    "url": "https://superdesigner.co/",
+    "description": "SuperDesigner es una comunidad en línea que ofrece recursos y herramientas gratuitas para diseñadores creativos. Descubre una amplia gama de recursos, incluyendo patrones, fuentes, ilustraciones y más para mejorar tus proyectos de diseño."
+  },
+  {
+    "title": "MagicPattern",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708025345/hltivzp9eweromprqqzs.png",
+    "url": "https://www.magicpattern.design/tools/css-backgrounds",
+    "description": "MagicPattern es una herramienta en línea que ofrece una colección de fondos CSS gratuitos para tus proyectos web. Explora una variedad de fondos creativos y personalizables para aplicar en tus diseños y páginas web."
+  },
+  {
+    "title": "Ibelick",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708025353/hm6uejkfymp8fcgrlfwu.png",
+    "url": "https://bg.ibelick.com/",
+    "description": "Ibelick es una plataforma que proporciona una amplia variedad de fondos de pantalla gratuitos para dispositivos móviles y de escritorio. Explora una colección de fondos de pantalla de alta calidad y descarga los que más te gusten para personalizar tu dispositivo."
+  }
 ]

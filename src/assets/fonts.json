@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Google Fonts",
+    "url": "https://fonts.google.com/",
+    "description": "Google Fonts ofrece una amplia variedad de fuentes gratuitas para su uso en proyectos web y de diseño.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708454771/wwkssz9wqdhuqlbgdfnn.png"
+  },
+  {
+    "title": "Font Squirrel",
+    "url": "https://www.fontsquirrel.com/",
+    "description": "Font Squirrel ofrece una colección de fuentes gratuitas que son completamente legales para usar en cualquier proyecto, incluso comercialmente.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708454786/scubwlknqmfywek5djqh.png"
+  },
+  {
+    "title": "DaFont",
+    "url": "https://www.dafont.com/",
+    "description": "DaFont es una biblioteca en línea de fuentes gratuitas, donde puedes encontrar una gran variedad de estilos y temas.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708454790/zasiolvo5l4q9oqjqfjx.png"
+  },
+  {
+    "title": "FontSpace",
+    "url": "https://www.fontspace.com/",
+    "description": "FontSpace es una plataforma que ofrece miles de fuentes gratuitas para uso personal y comercial.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708454795/nmfmtitqlnxvim0zseez.png"
+  }
+]

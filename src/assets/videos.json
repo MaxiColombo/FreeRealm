@@ -1,32 +1,44 @@
 [
   {
-    "title":"Pexels",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707860469/zv1z8rmwnwdgmifxvl8y.png"
+    "title": "Pexels",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707860469/zv1z8rmwnwdgmifxvl8y.png",
+    "url": "https://www.pexels.com/",
+    "description": "Pexels es un banco de imágenes gratuitas que ofrece una amplia colección de fotos de alta calidad. Puedes explorar y descargar imágenes gratuitas para usar en tus proyectos personales y comerciales."
   },
   {
-    "title":"Videvo",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707860481/vfnomgcuktxfincipmg5.png"
+    "title": "Videvo",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707860481/vfnomgcuktxfincipmg5.png",
+    "url": "https://www.videvo.net/",
+    "description": "Videvo es una plataforma que ofrece una variedad de clips de vídeo gratuitos, incluyendo material de archivo, metraje aéreo, vídeos en bucle y más. Puedes buscar y descargar clips de vídeo para usar en tus proyectos personales y comerciales."
   },
   {
-    "title":"Videezy",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707860488/vak8ymdc37rsh6qmylrb.png"
+    "title": "Videezy",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707860488/vak8ymdc37rsh6qmylrb.png",
+    "url": "https://www.videezy.com/",
+    "description": "Videezy es una comunidad en línea que ofrece una amplia colección de clips de vídeo gratuitos. Puedes explorar y descargar clips de vídeo de alta calidad para usar en tus proyectos personales y comerciales."
   },
   {
-    "title":"FreeP!k",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707860494/btwkdy64zviuapq1ajfp.png"
+    "title": "FreeP!k",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707860494/btwkdy64zviuapq1ajfp.png",
+    "url": "https://www.freepik.com/",
+    "description": "FreePik es una plataforma que ofrece recursos gráficos gratuitos, incluyendo vectores, fotos de stock y archivos PSD. Puedes descargar y utilizar estos recursos en tus proyectos personales y comerciales."
   },
   {
-    "title":"Motion Elements",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707860499/sytry9cdt4n2xxerr6lw.png"
+    "title": "Motion Elements",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707860499/sytry9cdt4n2xxerr6lw.png",
+    "url": "https://www.motionelements.com/",
+    "description": "Motion Elements es una biblioteca en línea que ofrece una amplia colección de recursos multimedia, incluyendo vídeos, música, efectos de sonido y más. Puedes buscar y descargar recursos multimedia para usar en tus proyectos personales y comerciales."
   },
   {
-    "title":"Coverr",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707860510/wl4ghe57vrvqroefhxkp.png"
+    "title": "Coverr",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707860510/wl4ghe57vrvqroefhxkp.png",
+    "url": "https://coverr.co/",
+    "description": "Coverr es una plataforma que ofrece una colección de vídeos de alta calidad y libres de regalías para uso comercial. Puedes descargar vídeos gratuitos para utilizar como fondos de pantalla, encabezados de sitio web, presentaciones y más."
   },
   {
-    "title":"Mixkit",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707860520/za5r4uwbacjsliggfxbz.png"
+    "title": "Mixkit",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707860520/za5r4uwbacjsliggfxbz.png",
+    "url": "https://mixkit.co/",
+    "description": "Mixkit es una plataforma que ofrece una variedad de recursos multimedia gratuitos, incluyendo vídeos, música, imágenes y efectos de sonido. Puedes descargar estos recursos para usar en tus proyectos personales y comerciales."
   }
-  
-  
 ]

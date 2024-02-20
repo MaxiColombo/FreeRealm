@@ -1,26 +1,38 @@
 [
   {
-    "title":"Unsplash",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859614/cd1rt69eoxgl4lsufr9v.png"
+    "title": "Unsplash",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859614/cd1rt69eoxgl4lsufr9v.png",
+    "url": "https://unsplash.com/",
+    "description": "Unsplash es una plataforma en línea que ofrece una amplia variedad de fotografías de alta resolución de forma gratuita. Puedes explorar y descargar imágenes de alta calidad para usar en tus proyectos."
   },
   {
-    "title":"FreeP!k",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859622/s9t1rhtvwpk3rkjytt6n.png"
+    "title": "FreeP!k",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859622/s9t1rhtvwpk3rkjytt6n.png",
+    "url": "https://www.freepik.com/",
+    "description": "FreePik es una plataforma que ofrece recursos gráficos gratuitos, incluyendo vectores, fotos de stock y archivos PSD. Puedes descargar y utilizar estos recursos en tus proyectos personales y comerciales."
   },
   {
-    "title":"FreeImage",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859630/a8qakvdaa36y673ll67o.png"
+    "title": "FreeImage",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859630/a8qakvdaa36y673ll67o.png",
+    "url": "https://freeimages.com/",
+    "description": "FreeImage es una biblioteca en línea que ofrece una amplia colección de imágenes de stock gratuitas. Puedes buscar y descargar imágenes de alta calidad para utilizar en tus proyectos sin necesidad de atribución."
   },
   {
-    "title":"StockSnap.io",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859640/rso8uihw27qjfs2kf7av.png"
+    "title": "StockSnap.io",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859640/rso8uihw27qjfs2kf7av.png",
+    "url": "https://stocksnap.io/",
+    "description": "StockSnap.io es un sitio web que ofrece una gran cantidad de imágenes de stock de alta resolución de forma gratuita. Puedes explorar y descargar imágenes para usar en tus proyectos personales y comerciales."
   },
   {
-    "title":"PhotoAC",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859659/g7unhh3xxsjwyaotjzgh.png"
+    "title": "PhotoAC",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859659/g7unhh3xxsjwyaotjzgh.png",
+    "url": "https://photo-ac.com/",
+    "description": "PhotoAC es una plataforma que ofrece una amplia variedad de fotografías de alta calidad de forma gratuita. Puedes buscar y descargar imágenes para usar en tus proyectos sin necesidad de atribución."
   },
   {
-    "title":"Canva",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859665/b3vop3mkfuec4gzl3m3d.png"
+    "title": "Canva",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859665/b3vop3mkfuec4gzl3m3d.png",
+    "url": "https://www.canva.com/",
+    "description": "Canva es una herramienta de diseño gráfico en línea que ofrece una amplia variedad de plantillas, imágenes de stock, ilustraciones y herramientas de diseño. Puedes utilizar Canva para crear diseños profesionales de forma rápida y sencilla."
   }
 ]

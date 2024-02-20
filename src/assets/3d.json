@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Poly Haven",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455278/dncofnsurx2hzb3mm05a.png",
+    "url": "https://polyhaven.com/",
+    "description": "Poly Haven es una plataforma que ofrece una variedad de recursos gratuitos como HDRIs, texturas y modelos 3D. Todos los activos en Poly Haven están bajo la licencia CC0, lo que significa que son de dominio público."
+  },
+  {
+    "title": "AmbientCG",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455283/fz0a8le3y0s3vrznnkyf.png",
+    "url": "https://ambientcg.com/",
+    "description": "ambientCG proporciona HDRIs, texturas y modelos 3D bajo la licencia Creative Commons CC0 1.0 Universal License, lo que permite su uso gratuito en cualquier proyecto, incluidos los comerciales."
+  },
+  {
+    "title": "BlenderKit",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455288/jjgbopqng9hjelhgpaxf.png",
+    "url": "https://www.blenderkit.com/",
+    "description": "BlenderKit ofrece texturas, modelos, HDRIs y pinceles para Blender. Sus activos están disponibles bajo dos licencias: RF & CC0, ambas permiten el uso comercial, pero la licencia de RF no permite la reventa de modelos 3D incluso si están modificados."
+  },
+  {
+    "title": "CG Bookcase",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455294/uy97g1v6qrngt571sgwm.png",
+    "url": "https://www.cgbookcase.com/",
+    "description": "CG Bookcase proporciona texturas bajo la licencia CC0 1.0, lo que permite su uso gratuito sin necesidad de acreditar al autor. Estas texturas pueden ser utilizadas en proyectos comerciales y personales."
+  },
+  {
+    "title": "Quaternius",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455298/pjn6arvmtmqrzxgl3sag.png",
+    "url": "https://quaternius.itch.io/",
+    "description": "Quaternius ofrece modelos 3D bajo la licencia CC0, lo que significa que son de dominio público. Estos modelos pueden ser utilizados libremente en proyectos comerciales y personales sin necesidad de atribución."
+  },
+  {
+    "title": "Game Art 2D",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455307/fauo2ylwtpbfrckdafry.png",
+    "url": "https://www.gameart2d.com/",
+    "description": "Game Art 2D proporciona sprites, tilesets y GUI para juegos bajo la licencia CC0, lo que significa que son de dominio público. Estos recursos pueden ser utilizados en proyectos comerciales y personales sin restricciones."
+  },
+  {
+    "title": "Textures.com",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455311/f449pjgwql9zl93lhs9f.png",
+    "url": "https://www.textures.com/",
+    "description": "textures.com ofrece una variedad de texturas bajo un modelo freemium. Aunque algunos recursos pueden requerir una suscripción, textures.com proporciona una amplia selección de texturas de alta calidad para su uso en proyectos 3D."
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "react-spring",
+    "category": "Animations",
+    "url": "https://www.react-spring.io/",
+    "description": "React-spring es una biblioteca de animaciones para React que facilita la creación de animaciones fluidas y naturales en tus aplicaciones web.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455594/kb4e6vybnm8nbbvljhdi.png"
+  },
+  {
+    "title": "Locomotive Scroll",
+    "category": "Scroll",
+    "url": "https://locomotivemtl.github.io/locomotive-scroll/",
+    "description": "Locomotive Scroll es una biblioteca JavaScript que te permite crear efectos de desplazamiento suave y atractivo en tus páginas web, añadiendo un toque de interactividad y elegancia.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455598/qlii2bszen0ciqzcusvt.png"
+  },
+  {
+    "title": "useHooks",
+    "category": "Hooks",
+    "url": "https://usehooks.com/",
+    "description": "useHooks es una colección de ganchos personalizados para React que abordan diversas necesidades comunes en el desarrollo de aplicaciones React, permitiéndote reutilizar lógica de manera eficiente.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455600/uvuadbqgjmtczyjtdtmu.png"
+  },
+  {
+    "title": "Plyr",
+    "category": "Media player",
+    "url": "https://plyr.io/",
+    "description": "Plyr es un reproductor multimedia HTML5 altamente personalizable y fácil de usar. Con Plyr, puedes integrar fácilmente videos y audio en tus proyectos web con un alto grado de control y estilo.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455603/g7tlb2sdos5ktp7acrn2.png"
+  },
+  {
+    "title": "RoughNotation",
+    "category": "Annotations",
+    "url": "https://roughnotation.com/",
+    "description": "RoughNotation es una biblioteca JavaScript que te permite crear anotaciones visualmente atractivas y personalizadas en tus páginas web, añadiendo un toque de creatividad y dinamismo a tus contenidos.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455606/aq3tgvdg4giiizb4g0jo.png"
+  },
+  {
+    "title": "Matter.js",
+    "category": "Physics",
+    "url": "https://brm.io/matter-js/",
+    "description": "Matter.js es una biblioteca JavaScript que te permite simular físicas realistas en tus aplicaciones web, lo que la hace ideal para crear juegos, simulaciones interactivas y experiencias dinámicas.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708455609/lykygrs8os0v2asse7w7.png"
+  }
+]

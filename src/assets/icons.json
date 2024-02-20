@@ -1,22 +1,32 @@
-[{
-  "title":"Icon-Icons",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707854882/dweiumhj3dmkyqzda7yu.png"
-},
-{
-  "title":"Icons 8",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707854886/kqdxwjkqmfxrel0hwzq8.png"
-},
-{
-  "title":"Flaticon",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707854889/va829fgwylfnrcyfqzjx.png"
-},
-{
-  "title":"FreeP!k",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707854894/yy91et75oczfn9obempi.png"
-},
-{
-  "title":"Iconfinder",
-  "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707854897/zq3tgvhgsal9rfxemiog.png"
-}
-
+[
+  {
+    "title": "Icon-Icons",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707854882/dweiumhj3dmkyqzda7yu.png",
+    "url": "https://www.icon-icons.com/",
+    "description": "Icon-Icons es una plataforma que ofrece una amplia variedad de iconos gratuitos para usar en tus proyectos."
+  },
+  {
+    "title": "Icons 8",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707854886/kqdxwjkqmfxrel0hwzq8.png",
+    "url": "https://icons8.com/",
+    "description": "Icons 8 proporciona una colección diversa de iconos gratuitos y de alta calidad para su uso en diseño y desarrollo."
+  },
+  {
+    "title": "Flaticon",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707854889/va829fgwylfnrcyfqzjx.png",
+    "url": "https://www.flaticon.com/",
+    "description": "Flaticon es una biblioteca de iconos que ofrece una amplia gama de opciones, desde iconos gratuitos hasta iconos premium."
+  },
+  {
+    "title": "FreeP!k",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707854894/yy91et75oczfn9obempi.png",
+    "url": "https://www.freepik.com/",
+    "description": "FreeP!k es una plataforma que proporciona recursos gráficos gratuitos, incluidos iconos, para diseñadores y desarrolladores."
+  },
+  {
+    "title": "Iconfinder",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707854897/zq3tgvhgsal9rfxemiog.png",
+    "url": "https://www.iconfinder.com/",
+    "description": "Iconfinder es una plataforma que ofrece millones de iconos de alta calidad de diseñadores de todo el mundo."
+  }
 ]

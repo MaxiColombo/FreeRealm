@@ -1,26 +1,38 @@
 [
   {
-    "title":"Storyset",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859263/ueqgmtros9xspkslhz0s.png"
+    "title": "Storyset",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859263/ueqgmtros9xspkslhz0s.png",
+    "url": "https://storyset.com/",
+    "description": "Storyset ofrece una gran variedad de ilustraciones vectoriales gratuitas que puedes utilizar en tus proyectos, desde sitios web hasta presentaciones."
   },
   {
-    "title":"Free Ilustrations",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859260/f1h2q32dnhxrl7kktcob.png"
+    "title": "Free Ilustrations",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859260/f1h2q32dnhxrl7kktcob.png",
+    "url": "https://freeillustrations.xyz/",
+    "description": "Free Illustrations es una colección de ilustraciones gratuitas de alta calidad que puedes usar en tus proyectos personales y comerciales."
   },
   {
-    "title":"Tools Design",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859254/jyx7alf52mcczzootx8l.png"
+    "title": "Tools Design",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859254/jyx7alf52mcczzootx8l.png",
+    "url": "https://tools.design/",
+    "description": "Tools Design es una biblioteca de recursos para diseñadores que ofrece una amplia gama de herramientas y recursos útiles para inspirarte en tus proyectos."
   },
   {
-    "title":"unDraw",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859252/e8rxa5jfyk6auooujyz4.png"
+    "title": "unDraw",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859252/e8rxa5jfyk6auooujyz4.png",
+    "url": "https://undraw.co/",
+    "description": "unDraw es una colección de ilustraciones de código abierto que puedes utilizar de forma gratuita en tus proyectos, tanto personales como comerciales."
   },
   {
-    "title":"Transhumans",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859250/pydqkbfjd18wldrnhvsu.png"
+    "title": "Transhumans",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859250/pydqkbfjd18wldrnhvsu.png",
+    "url": "https://transhuman.design/",
+    "description": "Transhumans es una colección de ilustraciones futuristas y tecnológicas que puedes utilizar para dar vida a tus proyectos relacionados con la ciencia ficción y la tecnología."
   },
   {
-    "title":"DrawKit",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1707859244/xocad1mmsrtffuehkmih.png"
+    "title": "DrawKit",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1707859244/xocad1mmsrtffuehkmih.png",
+    "url": "https://www.drawkit.io/",
+    "description": "DrawKit ofrece ilustraciones vectoriales gratuitas de alta calidad que puedes utilizar en tus proyectos web, aplicaciones y presentaciones para darles un toque visual atractivo."
   }
 ]

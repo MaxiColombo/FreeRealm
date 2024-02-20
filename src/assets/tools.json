@@ -1,0 +1,51 @@
+[
+  {
+    "title": "Shots",
+    "category": "Mockups",
+    "url": "https://shotsnapp.com/",
+    "description": "Shots es una herramienta en línea que te permite crear maquetas de alta calidad de tus diseños y proyectos. Con una interfaz intuitiva y funciones potentes, Shots facilita la creación de maquetas impresionantes para tus presentaciones y portafolios.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708456175/cvotsnwp7e1nsuktxs1l.png"
+  },
+  {
+    "title": "Monkeytype",
+    "category": "Typing test",
+    "url": "https://monkeytype.com/",
+    "description": "Monkeytype es una plataforma en línea para realizar pruebas de escritura y mejorar la velocidad y precisión de tu escritura. Con una variedad de modos de prueba y estadísticas detalladas, Monkeytype es ideal para perfeccionar tus habilidades de mecanografía.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708456178/jiosqae6wvlz0aegvunb.png"
+  },
+  {
+    "title": "Chalk.ist",
+    "category": "Code screenshots",
+    "url": "https://chalk.ist/",
+    "description": "Chalk.ist es una herramienta que te permite crear y compartir capturas de pantalla de código de manera rápida y sencilla. Con Chalk.ist, puedes resaltar y comentar partes específicas del código para explicar conceptos, solucionar problemas o compartir snippets de código con otros.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708456181/bkarxhfyz9kokqgfyzw7.png"
+  },
+  {
+    "title": "Excalidraw",
+    "category": "Whiteboard",
+    "url": "https://excalidraw.com/",
+    "description": "Excalidraw es una pizarra en línea que te permite dibujar diagramas y esquemas de forma colaborativa. Con una interfaz simple y herramientas intuitivas, Excalidraw es perfecto para la colaboración remota, lluvias de ideas y visualización de ideas.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708456183/frjc9pulo8ykxfkrmn9k.png"
+  },
+  {
+    "title": "Tally",
+    "category": "Forms",
+    "url": "https://tally.so/",
+    "description": "Tally es una plataforma para crear formularios y encuestas personalizadas de manera rápida y sencilla. Con una variedad de opciones de personalización y análisis de datos integrados, Tally te permite recopilar información y retroalimentación de manera efectiva.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708456186/seyfi16vy9ob1u0gjhv1.png"
+  },
+  {
+    "title": "Slidev",
+    "category": "Code to slides",
+    "url": "https://sli.dev/",
+    "description": "Slidev es una herramienta que te permite convertir tu código en presentaciones de diapositivas elegantes y profesionales. Con soporte para Markdown y una variedad de temas y diseños predefinidos, Slidev hace que la creación de presentaciones atractivas sea rápida y sencilla.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708456189/zf7ucvi0qfxexfoi2mnu.png"
+  },
+  {
+    "title": "Glyphy",
+    "category": "Font generator",
+    "url": "https://glyphy.io/",
+    "description": "Glyphy es un generador de fuentes en línea que te permite crear y personalizar iconos y símbolos de forma rápida y sencilla. Con una amplia selección de iconos y opciones de personalización, Glyphy es perfecto para diseñadores que buscan agregar elementos visuales a sus proyectos.",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708456192/doplsk2thayhtsawp2w9.png"
+  }
+]

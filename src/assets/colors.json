@@ -1,37 +1,44 @@
 [
   {
-    "title":"Picular",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024706/qml6d8tuzaox7uvtxesc.png",
-    "url":"https://picular.co/"
+    "title": "Picular",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708024706/qml6d8tuzaox7uvtxesc.png",
+    "url": "https://picular.co/",
+    "description": "Picular es una herramienta de generación de paletas de colores que utiliza los colores dominantes extraídos de una imagen como base para crear una paleta de colores armoniosa. Simplemente sube una imagen o ingresa un término de búsqueda para obtener una paleta de colores inspirada en la imagen o palabra clave proporcionada."
   },
   {
-    "title":"Color Selector",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024717/fvlltffunol5lumbzqfr.png",
-    "url":"https://www.color-selector.com/"
+    "title": "Color Selector",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708024717/fvlltffunol5lumbzqfr.png",
+    "url": "https://www.color-selector.com/",
+    "description": "Color Selector es una herramienta en línea que te permite explorar y encontrar colores para tus proyectos. Puedes buscar colores por nombre o código hexadecimal, y también puedes crear tus propias paletas de colores personalizadas."
   },
   {
-    "title":"Coolors",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024724/jmihqu8kx5aggtukrjl8.png",
-    "url":"https://coolors.co/"
+    "title": "Coolors",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708024724/jmihqu8kx5aggtukrjl8.png",
+    "url": "https://coolors.co/",
+    "description": "Coolors es una herramienta popular para generar paletas de colores. Puedes explorar paletas de colores creadas por otros usuarios, generar paletas de colores aleatorias o crear tus propias paletas de colores personalizadas utilizando la interfaz de arrastrar y soltar."
   },
   {
-    "title":"Huesnap",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024728/rgmytpwyfhos8qfy9u9h.png",
-    "url":"https://www.huesnap.com/"
+    "title": "Huesnap",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708024728/rgmytpwyfhos8qfy9u9h.png",
+    "url": "https://www.huesnap.com/",
+    "description": "Huesnap es una herramienta en línea que te ayuda a encontrar colores y paletas de colores inspiradas en la naturaleza. Puedes explorar una variedad de paletas de colores generadas automáticamente basadas en fotos de la naturaleza, y también puedes crear tus propias paletas de colores personalizadas."
   },
   {
-    "title":"Coloors.net",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024733/vauiuhhndeiixdds2swg.png",
-    "url":"https://www.coloors.net/"
+    "title": "Coloors.net",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708024733/vauiuhhndeiixdds2swg.png",
+    "url": "https://www.coloors.net/",
+    "description": "Coloors.net es una herramienta en línea que te permite generar paletas de colores aleatorias o personalizadas. Puedes ajustar manualmente los colores de una paleta generada aleatoriamente o crear tu propia paleta de colores personalizada utilizando la rueda de colores."
   },
   {
-    "title":"Tintmint",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024736/mxlfz8jjiz0dzmhl9ogb.png",
-    "url":"https://tintmint.net/"
+    "title": "Tintmint",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708024736/mxlfz8jjiz0dzmhl9ogb.png",
+    "url": "https://tintmint.net/",
+    "description": "Tintmint es una herramienta en línea que te permite generar paletas de colores a partir de imágenes. Simplemente sube una imagen o ingresa una URL de imagen para obtener una paleta de colores basada en los colores dominantes de la imagen."
   },
   {
-    "title":"Colormind",
-    "image":"http://res.cloudinary.com/drgtw2xik/image/upload/v1708024740/rvpcsvhpt7cvv2xeibva.png",
-    "url":"http://colormind.io/"
+    "title": "Colormind",
+    "image": "http://res.cloudinary.com/drgtw2xik/image/upload/v1708024740/rvpcsvhpt7cvv2xeibva.png",
+    "url": "http://colormind.io/",
+    "description": "Colormind es una herramienta de generación de paletas de colores que utiliza la inteligencia artificial para crear paletas de colores armoniosas. Puedes generar paletas de colores aleatorias o personalizadas y obtener sugerencias de colores para tus proyectos de diseño."
   }
 ]
