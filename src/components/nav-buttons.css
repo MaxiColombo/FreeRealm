@@ -4,7 +4,12 @@
   list-style: none;
   gap: 1rem;
   justify-content: center;
-  width: 90%;
+  width: 100%;
+}
+.titlePage a{
+  text-decoration:none;
+  color: white;
+  font-size: 48px;
 }
 
 @media (min-width: 1200px) {

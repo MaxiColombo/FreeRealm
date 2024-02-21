@@ -15,9 +15,11 @@
     "@cloudinary/url-gen": "^1.16.1",
     "async_hooks": "^1.0.0",
     "axios": "^1.6.7",
+    "bootstrap": "^5.3.3",
     "cloudinary": "^2.0.1",
     "path-to-regexp": "6.2.1",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.10.1",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.22.0"
   },

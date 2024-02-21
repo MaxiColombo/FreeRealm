@@ -3,10 +3,12 @@ import categories from "../assets/category.json";
 import "./nav-buttons.css";
 import { NavLink } from 'react-router-dom';
 
+
 export function NavBar() {
   return (
     <>
-      <h1>FreeRealm</h1>
+      <h1 className='titlePage'> <a href="/">FreeRealm</a></h1>
+
       <ul className="navbar-ul">
         {categories.map((item, index) => (
           <li key={index} className={`navbar-li`} style={{ backgroundColor: item.color }}>
